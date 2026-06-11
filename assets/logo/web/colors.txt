@@ -1,0 +1,8 @@
+Main: #2563EB
+Light 1: #4C83F0
+Light 2: #8DB3F7
+Dark 1: #1F4BB8
+Dark 2: #162F73
+
+Text Dark: #e9e7e7
+Text Light: #2f2f2f
